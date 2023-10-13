@@ -11,10 +11,10 @@ For more details, please refer to our [paper](https://ieeexplore.ieee.org/abstra
 We release NEU-DET dataset used in this paper, including VOC style and COCO style. Note that five-flod cross-validation is used to divide the dataset.
 
 Download the dataset(s) from corresponding links below.
- - NEU-DET: [OneDrvie](https://drive.google.com/drive/folders/1m0qVeSlcugL2VgLMjm6xHcJdxfoPphjB?usp=drive_link); [BaiduNetDisk](https://pan.baidu.com/s/1moXNI4dXpvxn-jxSZMN-zw?pwd=ty4t)
+ - NEU-DET: [Google Drive](https://drive.google.com/drive/folders/1m0qVeSlcugL2VgLMjm6xHcJdxfoPphjB?usp=drive_link); [BaiduNetDisk](https://pan.baidu.com/s/1moXNI4dXpvxn-jxSZMN-zw?pwd=ty4t)
 
 The COCO pretrained weight of our ETDNet:
- - ETDNet Weight: [OneDrvie](https://drive.google.com/file/d/1XvVbfRJJFJd5jEkhfyvwZDHGj2Rw5rAs/view?usp=drive_link); [BaiduNetDisk](https://pan.baidu.com/s/1-c_-Jb6WFjSFXqjV98FtCA?pwd=iug2)
+ - ETDNet Weight: [Google Drive](https://drive.google.com/file/d/1XvVbfRJJFJd5jEkhfyvwZDHGj2Rw5rAs/view?usp=drive_link); [BaiduNetDisk](https://pan.baidu.com/s/1-c_-Jb6WFjSFXqjV98FtCA?pwd=iug2)
 
 
 ## 🚀 Training
