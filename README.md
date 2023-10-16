@@ -25,14 +25,17 @@ python3 tools/mytrain.py -f exps/neu_det/etdnet_neu_flod1.py -d 4 -b 16 -c weigt
 
 ## :trophy: Result
 Our ETDNet achieves excellent performance on the NEU-DET dataset and is more lightweight and efficient.
+
 <img src="assets/ETDNet_performance.png">
 
 The detection accuracy of our method is much higher than that of the yolo series.
+
 <img src="assets/ETDNet_yolo.png">
 
 ## :ferris_wheel: Visualization
 
 Examples of detection results obtained by the proposed ETDNet on NEU-DET dataset. (a) Ground truth; (b) Prediction images by ETDNet.
+
 <img src="assets/neu_det.png">
 
 ## 📚  Citation
